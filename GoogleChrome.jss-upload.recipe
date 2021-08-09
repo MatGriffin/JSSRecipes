@@ -23,9 +23,9 @@
             <key>Arguments</key>
             <dict>
                 <key>category</key>
-                <string>%CATEGORY%</string>
+                <string>AZ Packages</string>
                 <key>prod_name</key>
-                <string>%NAME%</string>
+                <string>APP_auopkg_%NAME%</string>
                 <key>pkg_path</key>
                 <string>%pkg_path%</string>
             </dict>
