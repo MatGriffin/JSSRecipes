@@ -25,7 +25,7 @@
                 <key>category</key>
                 <string>AZ Packages</string>
                 <key>prod_name</key>
-                <string>APP_auopkg_%NAME%</string>
+                <string>APP_autopkg_%NAME%</string>
                 <key>pkg_path</key>
                 <string>%pkg_path%</string>
             </dict>
